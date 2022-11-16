@@ -1,1 +1,2 @@
-# odin-recipies
+# This file is the start of my coding portfolio. Currently working in HTML with a focus on organization and structure. Focus will shift according to the content of the learning module and will include OSS, Python, and C+. 
+Insert reflection of learning module here.  
